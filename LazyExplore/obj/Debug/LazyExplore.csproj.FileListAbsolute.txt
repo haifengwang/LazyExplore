@@ -1,6 +1,0 @@
-F:\iproject\DotNet\LazySample\LazyExplore\LazyExplore\bin\Debug\LazyExplore.exe.config
-F:\iproject\DotNet\LazySample\LazyExplore\LazyExplore\obj\Debug\LazyExplore.csprojResolveAssemblyReference.cache
-F:\iproject\DotNet\LazySample\LazyExplore\LazyExplore\bin\Debug\LazyExplore.exe
-F:\iproject\DotNet\LazySample\LazyExplore\LazyExplore\bin\Debug\LazyExplore.pdb
-F:\iproject\DotNet\LazySample\LazyExplore\LazyExplore\obj\Debug\LazyExplore.exe
-F:\iproject\DotNet\LazySample\LazyExplore\LazyExplore\obj\Debug\LazyExplore.pdb
